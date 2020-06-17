@@ -10,6 +10,7 @@ astroid = "*"
 
 [packages]
 flask = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.8"
